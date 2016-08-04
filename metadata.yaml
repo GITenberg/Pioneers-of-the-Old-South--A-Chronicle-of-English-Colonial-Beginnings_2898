@@ -1,0 +1,43 @@
+_repo: Pioneers-of-the-Old-South--A-Chronicle-of-English-Colonial-Beginnings_2898
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnston, Mary
+    birthdate: &id001 1870
+    deathdate: 1936
+    gutenberg_agent_id: '695'
+    url: http://www.gutenberg.org/2009/agents/695
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: *id001
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- United States
+- Children's History
+gutenberg_issued: '2001-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2898'
+language: en
+publication_note: '[S.l. :  s.n.,  1918]'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 05
+subjects:
+- !lcsh 'Virginia -- History'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775'
+- !lcsh 'British Americans -- Southern States'
+- !lcc 'F206'
+- !lcc 'E151'
+- !lcsh 'Maryland -- History'
+- !lcsh 'Frontier and pioneer life -- Southern States'
+- !lcsh 'Southern States -- History -- Colonial period, ca. 1600-1775'
+- GITenberg
+title: 'Pioneers of the Old South: A Chronicle of English Colonial Beginnings'
+url: http://www.gutenberg.org/ebooks/2898
