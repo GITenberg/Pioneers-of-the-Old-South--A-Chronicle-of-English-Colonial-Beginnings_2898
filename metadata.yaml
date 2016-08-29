@@ -1,16 +1,16 @@
 _repo: Pioneers-of-the-Old-South--A-Chronicle-of-English-Colonial-Beginnings_2898
-_version: 0.0.1
+_version: 0.1.0
 creator:
   author:
     agent_name: Johnston, Mary
-    birthdate: &id001 1870
+    birthdate: 1870
     deathdate: 1936
     gutenberg_agent_id: '695'
     url: http://www.gutenberg.org/2009/agents/695
     wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
   editor:
     agent_name: Johnson, Allen
-    birthdate: *id001
+    birthdate: 1870
     deathdate: 1931
     gutenberg_agent_id: '1084'
     url: http://www.gutenberg.org/2009/agents/1084
