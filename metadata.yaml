@@ -1,5 +1,8 @@
 _repo: Pioneers-of-the-Old-South--A-Chronicle-of-English-Colonial-Beginnings_2898
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnston, Mary
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1084
     wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2898#Pioneers-of-the-Old-South--A-Chronicle-of-English-Colonial-Beginnings
 gutenberg_bookshelf:
 - United States
 - Children's History
